@@ -42,7 +42,7 @@ Ensure you have Python and pip installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+    git clone [github.com/SamAllahverdi1/Coffee-Shop-Finder.git](https://github.com/SamAllahverdi1/Coffee-Shop-Finder.git)
     ```
 
 2.  **Navigate to the project directory:**
@@ -77,7 +77,7 @@ Ensure you have Python and pip installed on your machine.
 If you have an questions, feel free to contact: <sallahverdi3@gatech.com>
 This project was a collaborative effort by:
 
-* **[Sam Allahverdi]** - [github.com/SamAllahverdi](https://github.com/SamAllahverdi)
+* **[Sam Allahverdi]** - [github.com/SamAllahverdi1](https://github.com/SamAllahverdi1)
 * **[Tate Johnson]** - [github.com/tate0817](https://github.com/tate0817)
 * **[Tahiyat Mahmood]** - [github.com/ThytMhmd](https://github.com/ThytMhmd)
 * **[James Kemerait]** - [github.com/jkemerait3](https://github.com/jkemerait3)
