@@ -42,7 +42,7 @@ Ensure you have Python and pip installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [github.com/SamAllahverdi1/Coffee-Shop-Finder.git](https://github.com/SamAllahverdi1/Coffee-Shop-Finder.git)
+    git clone github.com/SamAllahverdi1/Coffee-Shop-Finder.git
     ```
 
 2.  **Navigate to the project directory:**
